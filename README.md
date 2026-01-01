@@ -1,2 +1,2 @@
-# rust-gpu
-Playing around with GPU workloads using Rust with burn.dev and WASM.
+# learn-burn
+Learning to use burn for AI work in Rust
