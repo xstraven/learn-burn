@@ -1,2 +1,2 @@
 # learn-burn
-Learning to use burn for AI work in Rust
+A collection of small learning exercises and explorations of writing ML code in burn (https://github.com/tracel-ai/burn)
