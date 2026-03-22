@@ -1,0 +1,7 @@
+[package]
+name = "buildgpt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+burn = "0.20.1"
